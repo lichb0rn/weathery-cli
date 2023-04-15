@@ -1,0 +1,1 @@
+# Simple cli node.js app for getting weather
